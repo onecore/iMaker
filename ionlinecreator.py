@@ -2,6 +2,14 @@
 # DevelOPS
 # Invictuz Online
 # Mark Anthony Pequeras - 2013
+coreSEC = """
+_________  ________ _____________________ _____________________________  
+\_   ___ \ \_____  \\______   \_   _____//   _____/\_   _____/\_   ___ \ 
+/    \  \/  /   |   \|       _/|    __)_ \_____  \  |    __)_ /    \  \/ 
+\     \____/    |    \    |   \|        \/        \ |        \\     \____
+ \______  /\_______  /____|_  /_______  /_______  //_______  / \______  /
+        \/         \/       \/        \/        \/         \/         \/ 
+"""
 from Settings import settings
 from PyQt4 import QtCore, QtGui
 from PyQt4.QtCore import QThread
