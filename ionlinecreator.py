@@ -9089,8 +9089,8 @@ class Ui_mPequeras(object):
             self.r7c4.setText(theString),message.insertPlainText(str(theString)+' Added\n')
         else:
             message.insertPlainText('You are not in Vault Mode!\n')
-mark = 'mark'
-if mark == "mark": # Disable if wrong signature
+
+if 1:
     import sys
     import win32api
     app = QtGui.QApplication(sys.argv)
